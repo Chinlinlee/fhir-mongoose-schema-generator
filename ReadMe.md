@@ -1,4 +1,4 @@
-# FHIR-MONGOOSE-GENERATOR
+# FHIR-MONGOOSE-SCHEMA-GENERATOR
 Generate FHIR mongoose schema.
 
 # Usage
