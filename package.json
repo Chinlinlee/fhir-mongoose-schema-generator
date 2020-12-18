@@ -1,0 +1,29 @@
+{
+  "name": "fhir-mongoose-schema-generator",
+  "version": "1.0.12",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "FHIR",
+    "FHIRJson",
+    "mongoose"
+  ],
+  "author": "chinlin lee",
+  "bin": "./bin/fhir-mongoose-schema-generator.js",
+  "repository": "https://github.com/Chinlinlee/fhir-mongoose-schema-generator.git",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.2.0",
+    "js-beautify": "^1.13.0",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.13",
+    "mongoose-schema-jsonschema": "^1.4.4"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "should": "^13.2.3"
+  }
+}
